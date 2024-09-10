@@ -1,0 +1,3650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Awbolds>
+	<Master_bol>
+		<Customs_office_code>SECMB</Customs_office_code>
+		<Voyage_number>432W</Voyage_number>
+		<Date_of_departure>2024-09-03</Date_of_departure>
+		<Reference_number>243298986</Reference_number>
+		<SLPA_Ref_Number> 11E10J </SLPA_Ref_Number>
+	</Master_bol>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10895</Bol_reference>
+			<Line_number>1</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>P.G.P.K. AMARASIRI</Exporter_name>
+				<Exporter_address>DXB PP NO N6647001</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>P.G.P.K. AMARASIRI</Notify_name>
+				<Notify_address>130A, THAMMITA HUNUMULLA MOB NO 077 381 8295 PP NO N6647001</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>P.G.P.K. AMARASIRI</Consignee_name>
+				<Consignee_address>130A, THAMMITA HUNUMULLA MOB NO 077 381 8295 PP NO N6647001</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>3</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>3</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>897</Gross_mass>
+			<Shipping_marks>APEY 10895 P.G.P.K AMARASIRI</Shipping_marks>
+			<Goods_description>3 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX TILE PALLET TILE PALLET LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>2.988</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10893</Bol_reference>
+			<Line_number>2</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>W.M.K.G.K. WIJAYARATHNA</Exporter_name>
+				<Exporter_address>DXB PP NO N5491290</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>K.A.N. CHANDRASIRI</Notify_name>
+				<Notify_address>GINIGALPITIYA WATHTHA RANAWANA, THORAYAYA KURUNEGALA MOB NO 076 068 3631 076 450 0418 ID NO 711422021V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>K.A.N. CHANDRASIRI</Consignee_name>
+				<Consignee_address>GINIGALPITIYA WATHTHA RANAWANA, THORAYAYA KURUNEGALA MOB NO 076 068 3631 076 450 0418 ID NO 711422021V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>112.75</Gross_mass>
+			<Shipping_marks>APEY 10893 K.A.N. CHANDRASIRI</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.451</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10878</Bol_reference>
+			<Line_number>3</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>A.M.R. DISLEE</Exporter_name>
+				<Exporter_address>DXB PP NO N8326224</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>A.M.R. DISLEE</Notify_name>
+				<Notify_address>U.C. 20A, KUDUGALA LANE YATIRAWANA WATTEGAMA MOB NO 077 066 0238 PP NO N8326224</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>A.M.R. DISLEE</Consignee_name>
+				<Consignee_address>U.C. 20A, KUDUGALA LANE YATIRAWANA WATTEGAMA MOB NO 077 066 0238 PP NO N8326224</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10878 A.M.R. DISLEE</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10903</Bol_reference>
+			<Line_number>4</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>J.A.S. MADANAYAKE</Exporter_name>
+				<Exporter_address>DXB PP NO N35097</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>WARAHENA IRIN DE ALWIS</Notify_name>
+				<Notify_address>615/C, NURAPALAWATHTHA KORATHOTA KADUWELA MOB NO 077 156 3724 ID NO 198270502299</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>WARAHENA IRIN DE ALWIS</Consignee_name>
+				<Consignee_address>615/C, NURAPALAWATHTHA KORATHOTA KADUWELA MOB NO 077 156 3724 ID NO 198270502299</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>333</Gross_mass>
+			<Shipping_marks>APEY 10903 WARAHENA IRIN DE ALWIS</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.332</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10866</Bol_reference>
+			<Line_number>5</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>H.K.R. WICKRAMASINGHA</Exporter_name>
+				<Exporter_address>SHJ PP NO N7624098</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>H.K.R. WICKRAMASINGHA</Notify_name>
+				<Notify_address>PANADORA WALAWWA PANADURAGAMA MOB NO 071 033 3891 071 210 0201 PP NO N7624098</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>H.K.R. WICKRAMASINGHA</Consignee_name>
+				<Consignee_address>PANADORA WALAWWA PANADURAGAMA MOB NO 071 033 3891 071 210 0201 PP NO N7624098</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>696</Gross_mass>
+			<Shipping_marks>APEY 10866 H.K.R. WICKRAMASINGHA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX TILE PALLET LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>2.284</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10852</Bol_reference>
+			<Line_number>6</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>P.P.D. UMESHIKA</Exporter_name>
+				<Exporter_address>DXB PP NO N7456189</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>P.P.D. UMESHIKA</Notify_name>
+				<Notify_address>64/D DAKUNUKUDAHAKAPOLA JA ELA MOB NO 011 223 6062 077 430 8307 PP NO N7456189</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>P.P.D. UMESHIKA</Consignee_name>
+				<Consignee_address>64/D DAKUNUKUDAHAKAPOLA JA ELA MOB NO 011 223 6062 077 430 8307 PP NO N7456189</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>112.75</Gross_mass>
+			<Shipping_marks>APEY 10852 P.P.D. UMESHIKA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.451</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10910</Bol_reference>
+			<Line_number>7</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.Z.F. RIZVIYA</Exporter_name>
+				<Exporter_address>A.A.M. FARIS DXB PP NO N8221911 N8225475</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.Z.F. RIZVIYA</Notify_name>
+				<Notify_address>A.A.M. FARIS HENAMULLA PANADURA MOB NO 077 311 8204 077 804 2199 PP NO N8221911 N8225475</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.Z.F. RIZVIYA</Consignee_name>
+				<Consignee_address>A.A.M. FARIS HENAMULLA PANADURA MOB NO 077 311 8204 077 804 2199 PP NO N8221911 N8225475</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>1916</Gross_mass>
+			<Shipping_marks>APEY 10910 M.Z.F. RIZVIYA A.A.M. FARIS</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>6.771</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10884</Bol_reference>
+			<Line_number>8</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>R.P.D.N. PATHIRANA</Exporter_name>
+				<Exporter_address>UMQ PP NO N6148360</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>T.A.D. KUMARA</Notify_name>
+				<Notify_address>66/2, WATHUPOLA PALLAMA, CHILLAW MOB NO 078 451 2700 078 451 2624 ID NO 199407504895</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>T.A.D. KUMARA</Consignee_name>
+				<Consignee_address>66/2, WATHUPOLA PALLAMA, CHILLAW MOB NO 078 451 2700 078 451 2624 ID NO 199407504895</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>332</Gross_mass>
+			<Shipping_marks>APEY 10884 T.A.D. KUMARA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.328</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10906</Bol_reference>
+			<Line_number>9</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>D.V.D.N. DISSANAYAKE</Exporter_name>
+				<Exporter_address>SHJ PP NO N9231243</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>R.B.AWANTHA UDESH</Notify_name>
+				<Notify_address>KEKIRIGODA DEWANGALA, MAWANELLA MOB NO 070 352 6483 075 167 1830 ID NO 200111500204</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>R.B.AWANTHA UDESH</Consignee_name>
+				<Consignee_address>KEKIRIGODA DEWANGALA, MAWANELLA MOB NO 070 352 6483 075 167 1830 ID NO 200111500204</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10906 R.B.AWANTHA UDESH</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10897</Bol_reference>
+			<Line_number>10</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.I. CHRISTIN</Exporter_name>
+				<Exporter_address>SHJ PP NO N9574900</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.I. CHRISTIN</Notify_name>
+				<Notify_address>10/4/A, GRAMODAYA MAWATHA OBEYSEKARAPURA RAJAGIRIYA MOB NO 077 581 8191 077 997 5694 PP NO N9574900</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.I. CHRISTIN</Consignee_name>
+				<Consignee_address>10/4/A, GRAMODAYA MAWATHA OBEYSEKARAPURA RAJAGIRIYA MOB NO 077 581 8191 077 997 5694 PP NO N9574900</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10897 M.I. CHRISTIN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10901</Bol_reference>
+			<Line_number>11</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>J.P.M.R. SENEVIRATHNA</Exporter_name>
+				<Exporter_address>DXB PP NO N8165395</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>J.P.M.R. SENEVIRATHNA</Notify_name>
+				<Notify_address>JANAJAYAGAMA MILLAWA MARAGAHAHENA MOB NO 077 105 9391 070 243 2649 PP NO N8165395</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>J.P.M.R. SENEVIRATHNA</Consignee_name>
+				<Consignee_address>JANAJAYAGAMA MILLAWA MARAGAHAHENA MOB NO 077 105 9391 070 243 2649 PP NO N8165395</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10901 J.P.M.R. SENEVIRATHNA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10899</Bol_reference>
+			<Line_number>12</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>T.A.S.L. LAKSHAN</Exporter_name>
+				<Exporter_address>A.B.S. FERNANDO DXB PP NO N6806666 N11129405</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>T.A.S.L. LAKSHAN</Notify_name>
+				<Notify_address>A.B.S. FERNANDO 264/1, TEMPLE ROAD PADUKKA MOB NO 077 796 3944 044 621 7822 PP NO N6806666 N11129405</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>T.A.S.L. LAKSHAN</Consignee_name>
+				<Consignee_address>A.B.S. FERNANDO 264/1, TEMPLE ROAD PADUKKA MOB NO 077 796 3944 044 621 7822 PP NO N6806666 N11129405</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10899 T.A.S.L. LAKSHAN A.B.S. FERNANDO</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10890</Bol_reference>
+			<Line_number>13</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>P.R. DAMAYANTHI</Exporter_name>
+				<Exporter_address>AJM PP NO N10672072</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>U.K.P.J. KALU ARACHCHI</Notify_name>
+				<Notify_address>BALANGODA RATHNAPURA MOB NO 077 218 4809 076 807 7331 ID NO 902911219V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>U.K.P.J. KALU ARACHCHI</Consignee_name>
+				<Consignee_address>BALANGODA RATHNAPURA MOB NO 077 218 4809 076 807 7331 ID NO 902911219V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10890 U.K.P.J. KALU ARACHCHI</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10860</Bol_reference>
+			<Line_number>14</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>W.V.A.S.S.U. APPUHAMY</Exporter_name>
+				<Exporter_address>DXB PP NO N7587776</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>P.V.A.A. KETHARIN</Notify_name>
+				<Notify_address>29/1, VIJAYA MAWATHA CHILAW MOB NO 074 071 7429 077 426 5907 ID NO 548441188V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>P.V.A.A. KETHARIN</Consignee_name>
+				<Consignee_address>29/1, VIJAYA MAWATHA CHILAW MOB NO 074 071 7429 077 426 5907 ID NO 548441188V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10860 P.V.A.A. KETHARIN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10874</Bol_reference>
+			<Line_number>15</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>G.J. ASANKA</Exporter_name>
+				<Exporter_address>DXB PP NO N9161664</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>G.J. ASANKA</Notify_name>
+				<Notify_address>307/F, GALBADA INDURUWA MOB NO 077 087 4893 077 150 4536 PP NO N9161664</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>G.J. ASANKA</Consignee_name>
+				<Consignee_address>307/F, GALBADA INDURUWA MOB NO 077 087 4893 077 150 4536 PP NO N9161664</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10874 G.J. ASANKA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10870</Bol_reference>
+			<Line_number>16</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M. NILAM</Exporter_name>
+				<Exporter_address>DXB PP NO N8916924</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M. NILAM</Notify_name>
+				<Notify_address>NO 129, PUBUDUGAMA UDUMULLA MULLERIYAWA MOB NO 077 730 7812 077 746 5486 PP NO N8916924</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M. NILAM</Consignee_name>
+				<Consignee_address>NO 129, PUBUDUGAMA UDUMULLA MULLERIYAWA MOB NO 077 730 7812 077 746 5486 PP NO N8916924</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10870 M. NILAM</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10864</Bol_reference>
+			<Line_number>17</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>J.M.R. FERNANDO</Exporter_name>
+				<Exporter_address>DXB PP NO N8863108</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>J.M.R. FERNANDO</Notify_name>
+				<Notify_address>170/7, GALLE ROAD DEHIWALA MOB NO 076 094 0980 076 068 9340 PP NO N8863108</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>J.M.R. FERNANDO</Consignee_name>
+				<Consignee_address>170/7, GALLE ROAD DEHIWALA MOB NO 076 094 0980 076 068 9340 PP NO N8863108</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10864 J.M.R. FERNANDO</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10814</Bol_reference>
+			<Line_number>18</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>W.D. CHRISTOPHER</Exporter_name>
+				<Exporter_address>AUH PP NO N8849496</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>W.D. CHRITOPHER</Notify_name>
+				<Notify_address>118/F, IHALA YAGODA GAMPAHA MOB NO 071 265 8664 071 363 5453 PP NO N8849496</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>W.D. CHRITOPHER</Consignee_name>
+				<Consignee_address>118/F, IHALA YAGODA GAMPAHA MOB NO 071 265 8664 071 363 5453 PP NO N8849496</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10814 W.D. CHRISTOPHER</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10861</Bol_reference>
+			<Line_number>19</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>W.M.M. WIJESEKARA</Exporter_name>
+				<Exporter_address>UMQ PP NO N9526547</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>W.M.M. WIJESEKARA</Notify_name>
+				<Notify_address>NO 533, PATHKOLAGOLLA GALEWELA MATALE MOB NO 077 416 7073 PP NO N9526547</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>W.M.M. WIJESEKARA</Consignee_name>
+				<Consignee_address>NO 533, PATHKOLAGOLLA GALEWELA MATALE MOB NO 077 416 7073 PP NO N9526547</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10861 W.M.M. WIJESEKARA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10816</Bol_reference>
+			<Line_number>20</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>G.S. PRIYADARSHANI</Exporter_name>
+				<Exporter_address>AUH PP NO N8285501</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>G.S. PRIYADARSHANI</Notify_name>
+				<Notify_address>105/3A, PRAGATHIPURA MADIWELA, KOTTE MOB NO 076 458 4810 076 832 4430 PP NO N8285501</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>G.S. PRIYADARSHANI</Consignee_name>
+				<Consignee_address>105/3A, PRAGATHIPURA MADIWELA, KOTTE MOB NO 076 458 4810 076 832 4430 PP NO N8285501</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10816 G.S. PRIYADARSHANI</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10902</Bol_reference>
+			<Line_number>21</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>D.A.D.S. SILVA</Exporter_name>
+				<Exporter_address>DXB PP NO N8802645</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>W.N. KRISHANTHI</Notify_name>
+				<Notify_address>197,KALYANATHISSA MAWATHA MAHAWATHTHA BATAPOLA MOB NO 076 580 2377 077 752 4073 ID NO 197157101885</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>W.N. KRISHANTHI</Consignee_name>
+				<Consignee_address>197,KALYANATHISSA MAWATHA MAHAWATHTHA BATAPOLA MOB NO 076 580 2377 077 752 4073 ID NO 197157101885</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10902 W.N. KRISHANTHI</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10894</Bol_reference>
+			<Line_number>22</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>K.M.I. SENEVIRATHNA</Exporter_name>
+				<Exporter_address>SHJ PP NO N9285109</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.K.S. SENEVIRATHNA</Notify_name>
+				<Notify_address>MESSAKA MAWATHA MIHINTHALE MOB NO 076 718 6789 ID NO 200006202414</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.K.S. SENEVIRATHNA</Consignee_name>
+				<Consignee_address>MESSAKA MAWATHA MIHINTHALE MOB NO 076 718 6789 ID NO 200006202414</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10894 S.K.S. SENEVIRATHNA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10886</Bol_reference>
+			<Line_number>23</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>L.T.N. WIJEPALA</Exporter_name>
+				<Exporter_address>DXB PP NO N8935945</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>L.T.N. WIJEPALA</Notify_name>
+				<Notify_address>PARAMI HOUSE, WATHUKALA KANDA PAHALAWELA MATARA MOB NO 070 562 9249 071 081 1683 PP NO N8935945</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>L.T.N. WIJEPALA</Consignee_name>
+				<Consignee_address>PARAMI HOUSE, WATHUKALA KANDA PAHALAWELA MATARA MOB NO 070 562 9249 071 081 1683 PP NO N8935945</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10886 L.T.N. WIJEPALA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10879</Bol_reference>
+			<Line_number>24</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>R.M.A. CHAMARA</Exporter_name>
+				<Exporter_address>DXB PP NO N10512627</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>R.M.A. CHAMARA</Notify_name>
+				<Notify_address>33/D, MAKAVITA JA ELA MOB NO 071 638 5466 077 247 1025 PP NO N10512627</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>R.M.A. CHAMARA</Consignee_name>
+				<Consignee_address>33/D, MAKAVITA JA ELA MOB NO 071 638 5466 077 247 1025 PP NO N10512627</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10879 R.M.A. CHAMARA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10865</Bol_reference>
+			<Line_number>25</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>L. CHANDRAKUMAR</Exporter_name>
+				<Exporter_address>DXB PP NO N9288438</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>J.S. PRIYASHANTHA</Notify_name>
+				<Notify_address>GALLIDA GODALLA WATHTHA GALKADUWA IMADUWA MOB NO 076 735 4555 077 329 0757 ID NO 831240156V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>J.S. PRIYASHANTHA</Consignee_name>
+				<Consignee_address>GALLIDA GODALLA WATHTHA GALKADUWA IMADUWA MOB NO 076 735 4555 077 329 0757 ID NO 831240156V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10865 J.S. PRIYASHANTHA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10863</Bol_reference>
+			<Line_number>26</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>S.M.A. SUAD</Exporter_name>
+				<Exporter_address>DXB PP NO N9503920</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.M.A. SUAD</Notify_name>
+				<Notify_address>94, GONGITHOTA WATTALA MOB NO 011 294 7621 077 582 1007 PP NO N9503920</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.M.A. SUAD</Consignee_name>
+				<Consignee_address>94, GONGITHOTA WATTALA MOB NO 011 294 7621 077 582 1007 PP NO N9503920</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10863 S.M.A. SUAD</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10867</Bol_reference>
+			<Line_number>27</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.R.G. PODIMENIKE</Exporter_name>
+				<Exporter_address>D.M.H. BANDA DXB PP NO N8079537 N8093536</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.R.G. PODIMENIKE</Notify_name>
+				<Notify_address>D.M.H. BANDA 909 MEEGOLLA BARAWARDHANA OYA MOB NO 077 753 5599 PP NO N8079537 N8093536</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.R.G. PODIMENIKE</Consignee_name>
+				<Consignee_address>D.M.H. BANDA 909 MEEGOLLA BARAWARDHANA OYA MOB NO 077 753 5599 PP NO N8079537 N8093536</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10867 M.R.G. PODIMENIKE D.M.H. BANDA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10908</Bol_reference>
+			<Line_number>28</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>B.M.D.S. CHANDRASEKARA</Exporter_name>
+				<Exporter_address>DXB PP NO N7150714</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>B.M.D.S. CHANDRASEKARA</Notify_name>
+				<Notify_address>55/E, ABHAYARAMAYA LANE NARAHENPITA COLOMBO 5 MOB NO 077 866 2969 077 890 7209 PP NO N7150714</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>B.M.D.S. CHANDRASEKARA</Consignee_name>
+				<Consignee_address>55/E, ABHAYARAMAYA LANE NARAHENPITA COLOMBO 5 MOB NO 077 866 2969 077 890 7209 PP NO N7150714</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>245.5</Gross_mass>
+			<Shipping_marks>APEY 10908 B.M.D.S. CHANDRASERKARA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.982</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10877</Bol_reference>
+			<Line_number>29</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>D.K.K. PRIYANKARA</Exporter_name>
+				<Exporter_address>DXB PP NO N10730030</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>D.K.K. PRIYANKARA</Notify_name>
+				<Notify_address>UD, 164, SRI DARMARAMA ROAD DEMATAGODA, COLOMBO 09 MOB NO 072 689 7493 075 892 2200 PP NO N10730030</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>D.K.K. PRIYANKARA</Consignee_name>
+				<Consignee_address>UD, 164, SRI DARMARAMA ROAD DEMATAGODA, COLOMBO 09 MOB NO 072 689 7493 075 892 2200 PP NO N10730030</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>455.75</Gross_mass>
+			<Shipping_marks>APEY 10877 D.K.K. PRIYANKARA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.823</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10872</Bol_reference>
+			<Line_number>30</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>V.A.W.M. PERERA</Exporter_name>
+				<Exporter_address>DXB PP NO N6027005</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>V.A.W.M. PERERA</Notify_name>
+				<Notify_address>E.K. MALKANTHI 59/8,DABAHENA ROAD 3 PATUMAGA, MAHARAGAMA MOB NO 077 704 4252 071 801 5569 PP NO N6027005</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>V.A.W.M. PERERA</Consignee_name>
+				<Consignee_address>E.K. MALKANTHI 59/8,DABAHENA ROAD 3 PATUMAGA, MAHARAGAMA MOB NO 077 704 4252 071 801 5569 PP NO N6027005</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>911.75</Gross_mass>
+			<Shipping_marks>APEY 10872 V.A.W.M. PERERA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>3.647</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY  10873</Bol_reference>
+			<Line_number>31</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>T.D. VINODANI</Exporter_name>
+				<Exporter_address>DXB PP NO N8880855</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>T.D. VINODANI</Notify_name>
+				<Notify_address>MALIBAN STREET 3RD LANE MALABE MOB NO 076 371 3984 075 318 8986 PP NO N8880855</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>T.D. VINODANI</Consignee_name>
+				<Consignee_address>MALIBAN STREET 3RD LANE MALABE MOB NO 076 371 3984 075 318 8986 PP NO N8880855</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>541.5</Gross_mass>
+			<Shipping_marks>APEY 10873 T.D. VINODANI</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX FRIDGE CRATE LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.966</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10905</Bol_reference>
+			<Line_number>32</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.N. MALLIKA</Exporter_name>
+				<Exporter_address>K.A.D. HEMACHANDRA SHJ PP NO N7723814 N7190789</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.N. MALLIKA</Notify_name>
+				<Notify_address>K.A.D. HEMACHANDRA NO 26/1, BANDURABATAWALA BEMMULLA, GAMPAHA MOB NO 071 800 7664 077 982 8077 PP NO N7723814 N7190789</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.N. MALLIKA</Consignee_name>
+				<Consignee_address>K.A.D. HEMACHANDRA NO 26/1, BANDURABATAWALA BEMMULLA, GAMPAHA MOB NO 071 800 7664 077 982 8077 PP NO N7723814 N7190789</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>725.5</Gross_mass>
+			<Shipping_marks>APEY 10905 M.N. MALLIKA K.A.D. HEMACHANDRA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>2.902</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10896</Bol_reference>
+			<Line_number>33</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>H.C.M. HIZATH</Exporter_name>
+				<Exporter_address>SHJ PP NO N7019790</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>H.C.M. HIZATH</Notify_name>
+				<Notify_address>11477/1, GUNANANDA MAWATHA HUNUPITIYA WATTALA MOB NO 077 041 6999 077 875 6475 PP NO N7019790</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>H.C.M. HIZATH</Consignee_name>
+				<Consignee_address>11477/1, GUNANANDA MAWATHA HUNUPITIYA WATTALA MOB NO 077 041 6999 077 875 6475 PP NO N7019790</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>725.5</Gross_mass>
+			<Shipping_marks>APEY 10896 H.C.M. HIZATH</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>2.902</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10858</Bol_reference>
+			<Line_number>34</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>K.C.J. WANIGASEKARA</Exporter_name>
+				<Exporter_address>DXB PP NO N7166649</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.A.L. PRIYANKA</Notify_name>
+				<Notify_address>370/1, KERAWALAPITIYA HENDALA WATTALA MOB NO 077 474 1402 077 899 1357 PP NO N7166702</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.A.L. PRIYANKA</Consignee_name>
+				<Consignee_address>370/1, KERAWALAPITIYA HENDALA WATTALA MOB NO 077 474 1402 077 899 1357 PP NO N7166702</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10858 M.A.L. PRIYANKA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY  10857</Bol_reference>
+			<Line_number>35</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>S.L. SILVA</Exporter_name>
+				<Exporter_address>DXB PP NO N8794630</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.L. SILVA</Notify_name>
+				<Notify_address>NO 177/F/1A BOLLATHA, GANEMULLA MOB NO 077 903 1463 PP NO N8794630</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.L. SILVA</Consignee_name>
+				<Consignee_address>NO 177/F/1A BOLLATHA, GANEMULLA MOB NO 077 903 1463 PP NO N8794630</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10857 S.L. SILVA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10862</Bol_reference>
+			<Line_number>36</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>Y.N.M. SILVA</Exporter_name>
+				<Exporter_address>DXB PP NO N9124344</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>Y.N.M SILVA</Notify_name>
+				<Notify_address>132/25, NAHENA WATHTHA HUNUPITIYA WATTALA MOB NO 074 148 1071 PP NO N9124344</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>Y.N.M SILVA</Consignee_name>
+				<Consignee_address>132/25, NAHENA WATHTHA HUNUPITIYA WATTALA MOB NO 074 148 1071 PP NO N9124344</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10862 Y.N.M. SILVA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10868</Bol_reference>
+			<Line_number>37</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>B. YUVENDRAN</Exporter_name>
+				<Exporter_address>DXB PP NO N7618103</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>B. YUVENDRAN</Notify_name>
+				<Notify_address>75, 1/1 MUTUWELLA MAWATHA COLOMBO 15 MOB NO 077 594 4182 077 639 9875 PP NO N7618103</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>B. YUVENDRAN</Consignee_name>
+				<Consignee_address>75, 1/1 MUTUWELLA MAWATHA COLOMBO 15 MOB NO 077 594 4182 077 639 9875 PP NO N7618103</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>15.75</Gross_mass>
+			<Shipping_marks>APEY 10868 B. YUVENDRAN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.063</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10885</Bol_reference>
+			<Line_number>38</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>A.M.K. SHYAMAL</Exporter_name>
+				<Exporter_address>DXB PP NO N6604363</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>A.M.B. SANDARUWAN</Notify_name>
+				<Notify_address>46/2, MAWATHAGAMA HOMAGAMA MOB NO 071 728 1633 076 716 5361 ID NO 911532131V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>A.M.B. SANDARUWAN</Consignee_name>
+				<Consignee_address>46/2, MAWATHAGAMA HOMAGAMA MOB NO 071 728 1633 076 716 5361 ID NO 911532131V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10885 A.M.B. SANDARUWAN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10887</Bol_reference>
+			<Line_number>39</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>P.W.A.N. RUPIKA</Exporter_name>
+				<Exporter_address>DXB PP NO N5126340</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>A.D.P. SILVA</Notify_name>
+				<Notify_address>NO 495, MAHAKOTUWA DANDUGAMA JA-ELA MOB NO 075 877 6600 077 507 7809 ID NO 922810354V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>A.D.P. SILVA</Consignee_name>
+				<Consignee_address>NO 495, MAHAKOTUWA DANDUGAMA JA-ELA MOB NO 075 877 6600 077 507 7809 ID NO 922810354V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10887 A.D.P. SILVA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10892</Bol_reference>
+			<Line_number>40</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>K.A.R.PERERA</Exporter_name>
+				<Exporter_address>DXB PP NO N8056961</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>F.W.J. JAYASHEELAN</Notify_name>
+				<Notify_address>37/10, SIRIWARDHANA PLACE MUNNAKKARA NEGOMBO MOB NO 077 929 4903 031 222 4833 PP NO N9512797</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>F.W.J. JAYASHEELAN</Consignee_name>
+				<Consignee_address>37/10, SIRIWARDHANA PLACE MUNNAKKARA NEGOMBO MOB NO 077 929 4903 031 222 4833 PP NO N9512797</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10892 F.W.J. JAYASHEELAN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10907</Bol_reference>
+			<Line_number>41</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>S.N.S.MADUSANKA</Exporter_name>
+				<Exporter_address>DXB PP NO N9176600</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>P.A.T.D. BANDARA</Notify_name>
+				<Notify_address>NAMAL UYANA BINGIRIYA MOB NO 071 228 3033 077 714 7912 ID NO 920773265V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>P.A.T.D. BANDARA</Consignee_name>
+				<Consignee_address>NAMAL UYANA BINGIRIYA MOB NO 071 228 3033 077 714 7912 ID NO 920773265V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>86.5</Gross_mass>
+			<Shipping_marks>APEY 10907 P.A.T.D. BANDARA</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.346</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10859</Bol_reference>
+			<Line_number>42</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>A.H.M. MUZNIE</Exporter_name>
+				<Exporter_address>DXB PP NO N9395708</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.M. SHAFRAN</Notify_name>
+				<Notify_address>32, ALPONSO AVENUE DEHIWALA COLOMBO MOB NO 076 875 5668 076 116 1299 ID NO 198834803405</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.M. SHAFRAN</Consignee_name>
+				<Consignee_address>32, ALPONSO AVENUE DEHIWALA COLOMBO MOB NO 076 875 5668 076 116 1299 ID NO 198834803405</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>134.75</Gross_mass>
+			<Shipping_marks>APEY 10859 S.M. SHAFRAN</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.539</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10876</Bol_reference>
+			<Line_number>43</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>D.A.P.G. THILAKARATHNE</Exporter_name>
+				<Exporter_address>DXB PP NO N7006357</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>I.P.P.S. MUNASINGHA</Notify_name>
+				<Notify_address>14/1, PRAGATHIPURA MADIWELA KOTTE MOB NO 075 601 6928 075 496 2446 ID NO 200114700934</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>I.P.P.S. MUNASINGHA</Consignee_name>
+				<Consignee_address>14/1, PRAGATHIPURA MADIWELA KOTTE MOB NO 075 601 6928 075 496 2446 ID NO 200114700934</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>134.75</Gross_mass>
+			<Shipping_marks>APEY 10876 I.P.P.S. MUNASINGHA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.539</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10880</Bol_reference>
+			<Line_number>44</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>R.H.A.D. HARSHANA</Exporter_name>
+				<Exporter_address>DXB PP NO N7748056</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>L.C. HANSHIKA</Notify_name>
+				<Notify_address>76/05/01, DEHIGAHALANDA HINGURLA, PUWAKPITIYA AWISSAWELLA MOB NO 077 505 5488 071 018 1271 ID NO 199373800933</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>L.C. HANSHIKA</Consignee_name>
+				<Consignee_address>76/05/01, DEHIGAHALANDA HINGURLA, PUWAKPITIYA AWISSAWELLA MOB NO 077 505 5488 071 018 1271 ID NO 199373800933</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10880 L.C. HANSHIKA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10883</Bol_reference>
+			<Line_number>45</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>R.K.A.S. SEWWANDI</Exporter_name>
+				<Exporter_address>DXB PP NO N8608488</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.A.M. MALKANTHI</Notify_name>
+				<Notify_address>323/1/A,KUDABUTHGAMUWA ANGODA MOB NO 078 489 5744 078 649 8861 ID NO 758520609V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.A.M. MALKANTHI</Consignee_name>
+				<Consignee_address>323/1/A,KUDABUTHGAMUWA ANGODA MOB NO 078 489 5744 078 649 8861 ID NO 758520609V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10883 S.A.M. MALKANTHI</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10798</Bol_reference>
+			<Line_number>46</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>D. DINESH</Exporter_name>
+				<Exporter_address>DXB PP NO N6306181</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>D. DINESH</Notify_name>
+				<Notify_address>NO 11, SHRUBBERY GARDEN COLOMBO 4 MOB NO 077 711 9118 074 225 2123 PP NO N6306181</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>D. DINESH</Consignee_name>
+				<Consignee_address>NO 11, SHRUBBERY GARDEN COLOMBO 4 MOB NO 077 711 9118 074 225 2123 PP NO N6306181</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>134.75</Gross_mass>
+			<Shipping_marks>APEY 10798 D. DINESH</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.539</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10807</Bol_reference>
+			<Line_number>47</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>J.A.M.ANEES</Exporter_name>
+				<Exporter_address>N.A.U.RASEENA M.A.M.ADHNAN AJM PP NO N8850941 N6164714 N7990869</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>J.A.M.ANEES</Notify_name>
+				<Notify_address>N.A.U.RASEENA M.A.M.ADHNAN BADULLA SRI LANKA MOB NO 072 889 0678 PP NO N8850941 N6164714 N7990869</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>J.A.M.ANEES</Consignee_name>
+				<Consignee_address>N.A.U.RASEENA M.A.M.ADHNAN BADULLA SRI LANKA MOB NO 072 889 0678 PP NO N8850941 N6164714 N7990869</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>182.5</Gross_mass>
+			<Shipping_marks>APEY 10807 J.A.M.ANEES N.A.U.RASEENA M.A.M.ADHNAN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS FRIDGE LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.73</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10818</Bol_reference>
+			<Line_number>48</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>A.T. DRAVEEN</Exporter_name>
+				<Exporter_address>DXB PP NO N6885628</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>A.T.DRAVEEN</Notify_name>
+				<Notify_address>264/88/B, SAPUMAL UYANA 2 BATALANDA ROAD, MAKOLA SOUTH MAKOLA KIRIBATHGODA MOB NO 077 274 9112 077 114 0070 PP NO N6885628</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>A.T.DRAVEEN</Consignee_name>
+				<Consignee_address>264/88/B, SAPUMAL UYANA 2 BATALANDA ROAD, MAKOLA SOUTH MAKOLA KIRIBATHGODA MOB NO 077 274 9112 077 114 0070 PP NO N6885628</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>284.5</Gross_mass>
+			<Shipping_marks>APEY 10818 A.T. DRAVEEN</Shipping_marks>
+			<Goods_description>1 PACKAGE STC PERSONAL EFFECT AND HOUSEHOLD GOODS FRIDGE LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.138</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10904</Bol_reference>
+			<Line_number>49</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.G.N.T.K. JAYARATHNA</Exporter_name>
+				<Exporter_address>DXB PP NO N9141697</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.G.N.T.K. JAYARATHNA</Notify_name>
+				<Notify_address>256/C, MANGALAGAMA MURUTHALAWA KANDY MOB NO 075 330 9513 071 829 8278 PP NO N9141697</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.G.N.T.K. JAYARATHNA</Consignee_name>
+				<Consignee_address>256/C, MANGALAGAMA MURUTHALAWA KANDY MOB NO 075 330 9513 071 829 8278 PP NO N9141697</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10904 M.G.N.Y.K. JAYARATHNA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10900</Bol_reference>
+			<Line_number>50</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>K.P.K. SAMANTHILAKA</Exporter_name>
+				<Exporter_address>DXB PP NO N8919267</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>L.R.S.B. BANDARA</Notify_name>
+				<Notify_address>42/1, WELIHENA SOUTH KOCHCHIKADE MOB NO 077 244 5989 ID NO 852564172V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>L.R.S.B. BANDARA</Consignee_name>
+				<Consignee_address>42/1, WELIHENA SOUTH KOCHCHIKADE MOB NO 077 244 5989 ID NO 852564172V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10900 L.R.S.B. BANDARA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10891</Bol_reference>
+			<Line_number>51</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>H.M.G. KUMARI</Exporter_name>
+				<Exporter_address>DXB PP NO N8427589</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>H.M.G. KUMARI</Notify_name>
+				<Notify_address>145/4, BELUMMAHARA DEKATANA MOB NO 075 383 2399 074 016 5927 PP NO N8427589</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>H.M.G. KUMARI</Consignee_name>
+				<Consignee_address>145/4, BELUMMAHARA DEKATANA MOB NO 075 383 2399 074 016 5927 PP NO N8427589</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>112.75</Gross_mass>
+			<Shipping_marks>APEY 10891 H.M.G. KUMARI</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.451</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10889</Bol_reference>
+			<Line_number>52</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>W.A.C.L. SARATHCHANDRA</Exporter_name>
+				<Exporter_address>DXB PP NO N8798001</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>W.A.U. SARATHCHANDRA</Notify_name>
+				<Notify_address>BABARANGODA ROAD PIBURA, AGALAWATHTHA MOB NO 071 807 6911 ID NO 490762469V</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>W.A.U. SARATHCHANDRA</Consignee_name>
+				<Consignee_address>BABARANGODA ROAD PIBURA, AGALAWATHTHA MOB NO 071 807 6911 ID NO 490762469V</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>97</Gross_mass>
+			<Shipping_marks>APEY 10889 W.A.U. SARATHCHANDRA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10888</Bol_reference>
+			<Line_number>53</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>I.S. RANDENIYA</Exporter_name>
+				<Exporter_address>AUH PP NO N8425940</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>I.S. RANDENIYA</Notify_name>
+				<Notify_address>72/6/D,PATTIVILA GONAWALA MOB NO 070 110 2252 070 522 8187 PP NO N8425940</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>I.S. RANDENIYA</Consignee_name>
+				<Consignee_address>72/6/D,PATTIVILA GONAWALA MOB NO 070 110 2252 070 522 8187 PP NO N8425940</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>153</Gross_mass>
+			<Shipping_marks>APEY 10888 I.S. RANDENIYA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX TV LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.612</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10881</Bol_reference>
+			<Line_number>54</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.W.W.R. SRIMALI</Exporter_name>
+				<Exporter_address>DXB PP NO N7645483</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>S.F.H.K. HASARAL</Notify_name>
+				<Notify_address>NO 52/6, M.J.C. FERNANDO ROAD IDAMA MORATUWA MOB NO 072 850 6315 076 962 4871 PP NO N6155945</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>S.F.H.K. HASARAL</Consignee_name>
+				<Consignee_address>NO 52/6, M.J.C. FERNANDO ROAD IDAMA MORATUWA MOB NO 072 850 6315 076 962 4871 PP NO N6155945</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>5</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>5</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>526.5</Gross_mass>
+			<Shipping_marks>APEY 10881 S.F.H.K. HASARAL</Shipping_marks>
+			<Goods_description>5 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX C/BOX C/BOX REAK LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>1.706</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10869</Bol_reference>
+			<Line_number>55</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.D.D.A. SADAMALI</Exporter_name>
+				<Exporter_address>DXB PP NO N9832336</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.D. DAYARATHNA</Notify_name>
+				<Notify_address>175/D/1, PAHALA MAPITIGAMA MALWANA, GAMPAHA MOB NO 074 042 7622 074 071 3013 ID NO 196625603684</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.D. DAYARATHNA</Consignee_name>
+				<Consignee_address>175/D/1, PAHALA MAPITIGAMA MALWANA, GAMPAHA MOB NO 074 042 7622 074 071 3013 ID NO 196625603684</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>112.75</Gross_mass>
+			<Shipping_marks>APEY 10869 M.D. DAYARATHNA</Shipping_marks>
+			<Goods_description>2 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS C/BOX C/BOX LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>0.451</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>APEY 10875</Bol_reference>
+			<Line_number>56</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>AEJEA</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF702</Carrier_code>
+				<Carrier_name>KRYPTON MARITIME SOLUTIONS PVT LTD</Carrier_name>
+		        <Carrier_address>LEVEL 13, NDB-EDB TOWER, NO 42, NAWAM MAWATHA COLOMBO 2 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>M.I.S. HAMZIA</Exporter_name>
+				<Exporter_address>DXB PP NO N11334356</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>M.I.S. HAMZIA</Notify_name>
+				<Notify_address>NOKALAGAMUWA KOHILAGEDARA KURUNEGALA MOB NO 070 241 0365 071 618 2881 PP NO N11334356</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>M.I.S. HAMZIA</Consignee_name>
+				<Consignee_address>NOKALAGAMUWA KOHILAGEDARA KURUNEGALA MOB NO 070 241 0365 071 618 2881 PP NO N11334356</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>MRSU4345753</Ctn_reference>
+			<Number_of_packages>4</Number_of_packages>
+			<Type_of_container>45GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>LAE4060901</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>4</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>1069.5</Gross_mass>
+			<Shipping_marks>APEY 10875 M.I.S. HAMZIA</Shipping_marks>
+			<Goods_description>4 PACKAGES STC PERSONAL EFFECT AND HOUSEHOLD GOODS W/BOX C/BOX C/BOX WASHING MACHING LCL/LCL</Goods_description>
+			<Volume_in_cubic_meters>3.678</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+</Awbolds>

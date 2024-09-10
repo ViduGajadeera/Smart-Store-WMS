@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Awbolds>
+	<Master_bol>
+		<Customs_office_code>SECMB</Customs_office_code>
+		<Voyage_number>W125</Voyage_number>
+		<Date_of_departure>2024-08-07</Date_of_departure>
+		<Reference_number>025E698662</Reference_number>
+	</Master_bol>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401057</Bol_reference>
+			<Line_number>1</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>BENCHMARK LOGISTICS INTERNATIONAL </Notify_name>
+				<Notify_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>BENCHMARK LOGISTICS INTERNATIONAL </Consignee_name>
+				<Consignee_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>1247.5</Gross_mass>
+			<Shipping_marks>PO10373-03 AND PO10373-04</Shipping_marks>
+			<Goods_description>2 PALLETS SAID TO CONTAIN PLASTIC PARTICLES 3907991090 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.213</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401092</Bol_reference>
+			<Line_number>2</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHIN</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>PLATINUM LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>281/15, LEVEL 02, DEANS ROAD, COLOMBO 10, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>PLATINUM LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>281/15, LEVEL 02, DEANS ROAD, COLOMBO 10, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>568</Gross_mass>
+			<Shipping_marks>SOLEX /COLOMBO</Shipping_marks>
+			<Goods_description>1 PACKAGE SAID TO CONTAIN ELECTRIC MOTOR PARTS. 8503.00.10 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.728</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401115</Bol_reference>
+			<Line_number>3</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>SAMSON LOGISTICS PVT LIMITED</Notify_name>
+				<Notify_address>110,KUMARAN RATNAM ROAD COLOMBO-02.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>SAMSON LOGISTICS PVT LIMITED</Consignee_name>
+				<Consignee_address>110,KUMARAN RATNAM ROAD COLOMBO-02.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>3</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>3</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>4491</Gross_mass>
+			<Shipping_marks>PVC CUTTING BOARD DSI/E2400152 COLOMBO SRI LANKA C/NO.A1-A3 MADE IN CHINA</Shipping_marks>
+			<Goods_description>3 PALLETS SAID TO CONTAIN PVC CUTTING BOARD AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>3.906</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401130</Bol_reference>
+			<Line_number>4</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>BENCHMARK LOGISTICS INTERNATIONAL </Notify_name>
+				<Notify_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>BENCHMARK LOGISTICS INTERNATIONAL </Consignee_name>
+				<Consignee_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>374.5</Gross_mass>
+			<Shipping_marks>RINSTRUM PVT LTD</Shipping_marks>
+			<Goods_description>1 PALLET SAID TO CONTAIN P081-259-101-M01 FRONT SHELL HS CODE 9031900090 P081-243-121 BACK COVER HS CODE 9031900090 P081-245-101 MOUNT STAND HS CODE 9031900090 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.526</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401093</Bol_reference>
+			<Line_number>5</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING ME </Exporter_name>
+				<Exporter_address>GUAGZHOU LIMITED ROOM 2511-2513, NO. 76 HUANGPU AVENUE WEST, TIANHE DISTRICT, GUANGZHOU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>CWT GLOBELINK COLOMBO PVT LTD</Notify_name>
+				<Notify_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANK</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CWT GLOBELINK COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANK</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>5</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>5</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>4121</Gross_mass>
+			<Shipping_marks>SUPER ELECTRICAL COLOMBO MADE IN CHINA</Shipping_marks>
+			<Goods_description>5 PALLETS SAID TO CONTAIN DC MOTOR PARTS AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>10.589</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401113</Bol_reference>
+			<Line_number>6</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>XIAMEN TRIPLEXONE ECONOMICS AND</Exporter_name>
+				<Exporter_address>TRADE CO LTD 8 SHENTON WAY, 45-01, AXA TOWER, SINGAPORE 068811</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>NISH AUTO PARTS</Notify_name>
+				<Notify_address>356/6, RATHNAPURA ROAD, BALANGODA, SRILANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>NISH AUTO PARTS</Consignee_name>
+				<Consignee_address>356/6, RATHNAPURA ROAD, BALANGODA, SRILANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>91</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>91</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>958.5</Gross_mass>
+			<Shipping_marks>SWIVEL WITH PLATE CASTER OZONE</Shipping_marks>
+			<Goods_description>91 PACKAGES SAID TO CONTAIN LED LIGHT AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>5.863</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>HTDKYCLBP2401118</Bol_reference>
+			<Line_number>7</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>ZHONGSHAN OUFANKE TRADING CO LTD</Exporter_name>
+				<Exporter_address>6TH ,BUILDING 1, NO.30 XINMAO INDUSTRIAL ROAD, HENGLAN TOWN, ZHONGSHAN CITY CHINA.</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>ASIAN SILK ROUTE PRIVATE LIMITED</Notify_name>
+				<Notify_address>233 FIRST DIVISION MARADARA COLOMBO10 SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>ASIAN SILK ROUTE PRIVATE LIMITED</Consignee_name>
+				<Consignee_address>233 FIRST DIVISION MARADARA COLOMBO10 SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>6</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>6</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>1068</Gross_mass>
+			<Shipping_marks>S1-S6</Shipping_marks>
+			<Goods_description>6 PALLETS SAID TO CONTAIN BICYCLE FRAMES HS CODE 8714.91.10 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>14.325</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401119</Bol_reference>
+			<Line_number>8</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JHSHIP INTERNATIONAL LTD</Exporter_name>
+				<Exporter_address>4TH FLOOR,NO.77 HEYI RD.HAISHU DISTRICT.NINGBO CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>DFL GLOBAL PVT LTD</Notify_name>
+				<Notify_address>NO. 307 3RD FLOOR GEORGE R DE SILVA MAWATHA COLOMBO 13 SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>DFL GLOBAL PVT LTD</Consignee_name>
+				<Consignee_address>NO. 307 3RD FLOOR GEORGE R DE SILVA MAWATHA COLOMBO 13 SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>424</Gross_mass>
+			<Shipping_marks>PRINTCARE PLC PAPER PACKAGE TESTING MACHINE</Shipping_marks>
+			<Goods_description>2 PACKAGES SAID TO CONTAIN PAPER PACKAGING LABORATORY TESTING EQUIPMENT WITH ACCESSORIES AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.748</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401123</Bol_reference>
+			<Line_number>9</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING</Exporter_name>
+				<Exporter_address>(SHENZHEN) LIMITED NO.3001.HEPING RD, 2201, HONGLONG CENTURY PLAZA,BUILDING A, RENMINQIAO COMMUNITY, GUIYUAN STREET, LUOHU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>CWT GLOBELINK COLOMBO PVT LTD</Notify_name>
+				<Notify_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CWT GLOBELINK COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>90</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>90</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>1512</Gross_mass>
+			<Shipping_marks>PO NO-5078 DESCRIPTION ITEM CODE COL QTY CTNS NO.</Shipping_marks>
+			<Goods_description>90 CARTONS SAID TO CONTAIN DOUBLE LOGO ELASTIC DOUBLE STRIPE ELASTIC HS CODE5806200000 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>5.49</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>SSID24B04307</Bol_reference>
+			<Line_number>10</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>SHENZHEN QIANTENG DIGITAL CO LTD</Exporter_name>
+				<Exporter_address>3/F,BLOCK C,BUILDING10,HUAFENG TECH.PARK,FENGTANG AVE.TANGWEI,FUHAI ST. ,BAOAN,SHENZHEN,CHINA 518103</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>THINKCUBE SYSTEMS PVT LTD</Notify_name>
+				<Notify_address>VAT NO.114471810-7000 6TH FLOOR, MARINO MALL TOWER, 590, GALLE ROAD, COLOMBO 03, SRI LANKA ATTENTION CHANDIMA DILRUKSHI TEL.+94 11 431 1900 CHANDIMATHINKCUBE.COM</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>THINKCUBE SYSTEMS PVT LTD</Consignee_name>
+				<Consignee_address>VAT NO.114471810-7000 6TH FLOOR, MARINO MALL TOWER, 590, GALLE ROAD, COLOMBO 03, SRI LANKA ATTENTION CHANDIMA DILRUKSHI TEL.+94 11 431 1900 CHANDIMATHINKCUBE.COM</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5295575</Ctn_reference>
+			<Number_of_packages>10</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS916613</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>10</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>162</Gross_mass>
+			<Shipping_marks>THINKCUBE</Shipping_marks>
+			<Goods_description>10 CARTONS SAID TO CONTAIN DIGITAL PHOTO FRAME AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.974</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401016</Bol_reference>
+			<Line_number>11</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>PLATINUM LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>281/15, LEVEL 02, DEANS ROAD, COLOMBO 10, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>PLATINUM LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>281/15, LEVEL 02, DEANS ROAD, COLOMBO 10, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>317</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>317</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>3366.5</Gross_mass>
+			<Shipping_marks>HIFUTURE</Shipping_marks>
+			<Goods_description>317 CARTONS SAID TO CONTAIN SPEAKER 8518220000 STAND 9403200000 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>16.983</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401104</Bol_reference>
+			<Line_number>12</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>CL SYNERGY LIMITED</Notify_name>
+				<Notify_address>NO 30, 6TH FLOOR, ICELAND BUSINESS CENTRE, R. A. DE MEL MAWATHA, COLOMBO 03, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CL SYNERGY LIMITED</Consignee_name>
+				<Consignee_address>NO 30, 6TH FLOOR, ICELAND BUSINESS CENTRE, R. A. DE MEL MAWATHA, COLOMBO 03, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>3</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>3</Number_of_packages>
+			<Package_type_code>CS</Package_type_code>
+			<Gross_mass>753</Gross_mass>
+			<Shipping_marks>AUTO SUPER LINKING MACHINE</Shipping_marks>
+			<Goods_description>3WOODEN CASES SAID TO CONTAIN AUTO SUPER LINKING MACHINE H.S.CODE8447.90.00 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.288</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>SZLEL24070389</Bol_reference>
+			<Line_number>13</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>PAL LINE CHINA COMPANY LIMITED</Exporter_name>
+				<Exporter_address>RM.1117,BLOCK NORTH, INTERNATIONAL COMMERCIAL BUILDING, JIABIN RD.,LUOHU DIST.,SHENZHEN,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>TRANSWORLD GLS LANKA PVT LTD</Notify_name>
+				<Notify_address>CEYLINCO HOUSE,NO 69. 8TH FLOOR, JANADHIPATHI MAWATHA, COLOMBO 01,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>TRANSWORLD GLS LANKA PVT LTD</Consignee_name>
+				<Consignee_address>CEYLINCO HOUSE,NO 69. 8TH FLOOR, JANADHIPATHI MAWATHA, COLOMBO 01,SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>8</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>8</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>2142.5</Gross_mass>
+			<Shipping_marks>PALLET NO. CONTRACT NO. 2024TTAP-S005 TO TTLPL/ COLOMBO, SRI LANKA FROMTTGC / GUANGZHOU CHINA</Shipping_marks>
+			<Goods_description>8 PALLETS SAID TO CONTAIN 8 PALLETS SAID TO CONTAIN AIR FILTER ELEMENT CABIN AIR FILTER OIL FILTER SPARK PLUGS BRAKE PAD FUEL FILTER NETT WEIGHT1,799.70 KG AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>7.465</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>HJ2407150A</Bol_reference>
+			<Line_number>14</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>H AND J INT L FORWARDING CO LTD</Exporter_name>
+				<Exporter_address>B610,RONGDE TIMES PLAZA,HUAQIAOXINCUN COMMUNITY,HENGGANG STREET,LONGGANG DISTRICT,SHENZHEN CITY,GUANGDONG PROVINCE,CHINA 518115</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>CGS GLOBAL LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>NO  651/35,2ND FLOOR,ELVITIGALA MAWATHA,NARAHENPITA COLOMBO 05,SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CGS GLOBAL LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>NO  651/35,2ND FLOOR,ELVITIGALA MAWATHA,NARAHENPITA COLOMBO 05,SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>3</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>3</Number_of_packages>
+			<Package_type_code>CS</Package_type_code>
+			<Gross_mass>3241</Gross_mass>
+			<Shipping_marks>LANKA WALLTILES PLC.</Shipping_marks>
+			<Goods_description>3 CASES SAID TO CONTAIN COMPLETE MOLD SET WITH PUNCH AND LINER AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.519</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401066</Bol_reference>
+			<Line_number>15</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JHSHIP INTERNATIONAL LTD</Exporter_name>
+				<Exporter_address>4TH FLOOR,NO.77 HEYI RD.HAISHU DISTRICT.NINGBO CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>BENCHMARK LOGISTICS INTERNATIONAL </Notify_name>
+				<Notify_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>BENCHMARK LOGISTICS INTERNATIONAL </Consignee_name>
+				<Consignee_address>PVT LTD ORION CITY, GROUND FLOOR, RIGEL BUILDING, 752, DR DANISTER DE SILVA MAWATHA, COLOMBO 09.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>7</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>7</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>6870.5</Gross_mass>
+			<Shipping_marks>JF AND I PACKAGING PVT LTD, COLOMBO.</Shipping_marks>
+			<Goods_description>7 PALLETS SAID TO CONTAIN 400 MICRON PP SHEET, DIMENSIONS 3018 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>9.352</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401102</Bol_reference>
+			<Line_number>16</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>ZHUODA INTERNATIONAL FREIGHT CO</Exporter_name>
+				<Exporter_address>LIMITED BUILDING D ,HUAFENG BUSINESS MANSION ,YU AN ROAD,BAOAN 25 AREA,SHENZHEN</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EAGLE LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>NO 281-1/1, 1ST FLOOR,R A DE MEL MAWATHA,COLOMBO 03. SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EAGLE LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>NO 281-1/1, 1ST FLOOR,R A DE MEL MAWATHA,COLOMBO 03. SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>1269</Gross_mass>
+			<Shipping_marks>BALIDER</Shipping_marks>
+			<Goods_description>2 PALLETS SAID TO CONTAIN HOT FIX TAPE HS CODE3919909090 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>5.388</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401112</Bol_reference>
+			<Line_number>17</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>ZHUODA INTERNATIONAL FREIGHT CO </Exporter_name>
+				<Exporter_address>LIMITED BUILDING D ,HUAFENG BUSINESS MANSION ,YU AN ROAD,BAOAN 25 AREA,SHENZHEN</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EGX SUPPLY CHAIN PVT LTD</Notify_name>
+				<Notify_address>281, R A DE MEL MAWATHA COLOMBO 03 SRILANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EGX SUPPLY CHAIN PVT LTD</Consignee_name>
+				<Consignee_address>281, R A DE MEL MAWATHA COLOMBO 03 SRILANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>5</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>5</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>655</Gross_mass>
+			<Shipping_marks>ETAL</Shipping_marks>
+			<Goods_description>5 PALLETS SAID TO CONTAIN CARRIER TAPE, HUB,HIPS3923900000 3923400000 3920300000 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>11.568</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>BOSCMB24070390</Bol_reference>
+			<Line_number>18</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>SHENZHEN U-TOPWAY INTERNATIONAL</Exporter_name>
+				<Exporter_address>FORWARDER CO LTD B402 WENHAO BUILDING XIAWEIYUAN ROAD XIXIANG BAOAN DISTRICT SHENZHEN</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>TRANS ASIA FREIGHT AND LOGISTICS</Notify_name>
+				<Notify_address>(PVT) LTD NO 10 NAGALAGAM STREET COLOMBO 14 SRI LANKA CTC- MR MALIK /DHAMMIKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>TRANS ASIA FREIGHT AND LOGISTICS</Consignee_name>
+				<Consignee_address>(PVT) LTD NO 10 NAGALAGAM STREET COLOMBO 14 SRI LANKA CTC- MR MALIK /DHAMMIKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>288.5</Gross_mass>
+			<Shipping_marks>TRUE DIGITAL PRINTING</Shipping_marks>
+			<Goods_description>1 PALLET SAID TO CONTAIN PRINT INK AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.867</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401126</Bol_reference>
+			<Line_number>19</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING</Exporter_name>
+				<Exporter_address>(SHENZHEN) LIMITED NO.3001.HEPING RD, 2201, HONGLONG CENTURY PLAZA,BUILDING A, RENMINQIAO COMMUNITY, GUIYUAN STREET, LUOHU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EPIRIC SUPPLY CHAIN SOLUTIONS PVT </Notify_name>
+				<Notify_address>LTD LEVEL 35, WORLD TRADE CENTER, WEST TOWER, COLOMBO 01, SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EPIRIC SUPPLY CHAIN SOLUTIONS PVT </Consignee_name>
+				<Consignee_address>LTD LEVEL 35, WORLD TRADE CENTER, WEST TOWER, COLOMBO 01, SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>141</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>141</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>4895</Gross_mass>
+			<Shipping_marks>B-015 AKBAR/COLOMBO DO GHAZAL TEA SPOON MADE IN P. R. CHINA</Shipping_marks>
+			<Goods_description>141 PACKAGES SAID TO CONTAIN OPP BAGS HS CODE39232900 SPOON HS CODE82159900 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>7.954</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401128</Bol_reference>
+			<Line_number>20</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING </Exporter_name>
+				<Exporter_address>(SHENZHEN) LIMITED NO.3001.HEPING RD, 2201, HONGLONG CENTURY PLAZA,BUILDING A, RENMINQIAO COMMUNITY, GUIYUAN STREET, LUOHU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>TRANSCO CONSOLIDATION PVT LTD</Notify_name>
+				<Notify_address>2ND FLOOR, NO. 162 NAWALA ROAD, NUGEGODA, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>TRANSCO CONSOLIDATION PVT LTD</Consignee_name>
+				<Consignee_address>2ND FLOOR, NO. 162 NAWALA ROAD, NUGEGODA, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU5905240</Ctn_reference>
+			<Number_of_packages>15</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLS911962</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>15</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>2670</Gross_mass>
+			<Shipping_marks>D.R.EXPORTSPVTLTD ELSTEEL IFA70 TRADEKEM METRIC</Shipping_marks>
+			<Goods_description>15 PACKAGES SAID TO CONTAIN FURNITURE FITTINGS HEAT SHRINKABLE TUBE WASHING MACHINE PCB H.S. CODE.8537.10.00 DOCUMENTARY CREDIT NUMBER - DB2003LC2403385 DATE OF ISSUE - 240610 AS PER PROFORMA INVOICE NO.TB240520D OF 2024.05.20 BL-97300 GREY MASTERBATCH HS CODE 320649 ELASTIC HS CODE5806200000 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>5.128</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401064</Bol_reference>
+			<Line_number>21</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING </Exporter_name>
+				<Exporter_address>GUAGZHOU LIMITED ROOM 2511-2513, NO. 76 HUANGPU AVENUE WEST, TIANHE DISTRICT, GUANGZHOU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>AIR MARINE LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>171-1/3,KYNSEY ROAD, COLOMBO 08.SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>AIR MARINE LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>171-1/3,KYNSEY ROAD, COLOMBO 08.SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>50</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>50</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>780.5</Gross_mass>
+			<Shipping_marks>LESSO</Shipping_marks>
+			<Goods_description>50 CARTONS SAID TO CONTAIN PE PIPE FITTING AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.015</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401081</Bol_reference>
+			<Line_number>22</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>WORLD SCAN LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>NO, 9A, GLEAN ARBER PLACE COLOMBO 04,SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>WORLD SCAN LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>NO, 9A, GLEAN ARBER PLACE COLOMBO 04,SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>628</Gross_mass>
+			<Shipping_marks>ROYAL / MBEHTC23110011</Shipping_marks>
+			<Goods_description>1 PALLET SAID TO CONTAIN SPARE PARTS OF CERAMICS TILE MAKING INDUSTRY NANO WAXING LIQUID, NYLON WHEEL, FLEECE WHEEL, PVC PAD 1 PALLET10 PACKAGES AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.61</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401098</Bol_reference>
+			<Line_number>23</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>C-GATE LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>NO 61, SORATHA MAWATHA, GANGODAWILA, NUGEGODA 10250, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>C-GATE LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>NO 61, SORATHA MAWATHA, GANGODAWILA, NUGEGODA 10250, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>10</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>10</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>175.5</Gross_mass>
+			<Shipping_marks>SRIL/24/410 COLOMBO SRI LANKA</Shipping_marks>
+			<Goods_description>10 CARTONS SAID TO CONTAIN TAPE FOR JOINT OF BEAD WIRE H.S. CODE 5906.10.00 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.931</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401105</Bol_reference>
+			<Line_number>24</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>HANSHIN SHIPPING AND LOGISTICS PVT </Notify_name>
+				<Notify_address>NO 102/3, DHARMAPALA MAWATHA, COLOMBO 07, SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CONTINENTAL CARGO KONNECT PRIVATE </Consignee_name>
+				<Consignee_address>LIMITED 119 T, PADILIYATHUDUWA ROAD, HUNUPITIYA, WATTALA, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>4</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>4</Number_of_packages>
+			<Package_type_code>CS</Package_type_code>
+			<Gross_mass>7185</Gross_mass>
+			<Shipping_marks>MACKSONS TILES LANKA PVTLTD</Shipping_marks>
+			<Goods_description>4 CASES SAID TO CONTAIN COMPLETED SET MOULD FOR PH5200-400X400-3 CAV COMPLETED SET MOULD FOR PH5200-300X600-4 CAV SACMI ORIGINAL DIE LOCKER 400X400MM FLAT UPPER PUNCH 400X400MM ISOSTATIC LOWER PUNCH 300X600MM FLAT UPPER PUNCH 300X600MM NORMAL STEEL LOWER PUNCH-BACK PATTERN AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.257</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401106</Bol_reference>
+			<Line_number>25</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>ABANS LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>1159/A, KOTTE ROAD, RAJAGIRIYA, SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>ABANS LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>1159/A, KOTTE ROAD, RAJAGIRIYA, SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>4</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>4</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>372</Gross_mass>
+			<Shipping_marks>ABANS</Shipping_marks>
+			<Goods_description>4 PALLETS SAID TO CONTAIN LED TV SPARE PARTS AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>4.017</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401109</Bol_reference>
+			<Line_number>26</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JOHAN FREIGHT FORWARDER CO LTD</Exporter_name>
+				<Exporter_address>BUILDING 00324-7,NO.3,NO.5,NO.6,CENTURY ORIENTAL COMMERCIAL PLAZA,YINZHOU DISTRICT,NINGBO,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>SAYURA MARITIME PVT LTD</Notify_name>
+				<Notify_address>NO.15, 2ND FLOOR, SRI SANGARAJA MAWATHA,COLOMBO 10.SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>SAYURA MARITIME PVT LTD</Consignee_name>
+				<Consignee_address>NO.15, 2ND FLOOR, SRI SANGARAJA MAWATHA,COLOMBO 10.SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>4</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>4</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>71.5</Gross_mass>
+			<Shipping_marks>D.R EXPORTS</Shipping_marks>
+			<Goods_description>4 CARTONS SAID TO CONTAIN AIR NAILER SPARE PARTS HS CODE84679200 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.134</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401110</Bol_reference>
+			<Line_number>27</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JHSHIP INTERNATIONAL LTD</Exporter_name>
+				<Exporter_address>4TH FLOOR,NO.77 HEYI RD.HAISHU DISTRICT.NINGBO CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>ROYAL UNI LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>NO.658/78, MAHAVILA GARDENS, DR.DANISTER DE SILVA MAWATHA, COLOMBO 09. SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>ROYAL UNI LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>NO.658/78, MAHAVILA GARDENS, DR.DANISTER DE SILVA MAWATHA, COLOMBO 09. SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>10</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>10</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>103.5</Gross_mass>
+			<Shipping_marks>MBI</Shipping_marks>
+			<Goods_description>10 CARTONS SAID TO CONTAIN AMPLIFIER 8518400090 SPEAKER 8518210000 VOLUME CONTROL 8537109090 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.7</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401133</Bol_reference>
+			<Line_number>28</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>VANGUARD LOGISTICS SERVICES ZHUHAI </Exporter_name>
+				<Exporter_address>LIMITED SHENZHEN BRANCH 03-08/20F, GUIDU BUILDING NO 3007 CHUNFENG ROAD SHENZHEN PT, GUANGDONG</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>FREIGHT SYSTEMS LANKA PVT LTD</Notify_name>
+				<Notify_address>AS AGENTS FOR VANGUARD LOGISTICS SERVICES NO. 525, 2ND FLOOR, UNION PLACE, COLOMBO-2,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>FREIGHT SYSTEMS LANKA PVT LTD</Consignee_name>
+				<Consignee_address>AS AGENTS FOR VANGUARD LOGISTICS SERVICES NO. 525, 2ND FLOOR, UNION PLACE, COLOMBO-2,SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>22</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>22</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>261</Gross_mass>
+			<Shipping_marks>VSIS PO NO PO0000000006808 MODEL PCS/CTN N.W G.W CTN NO</Shipping_marks>
+			<Goods_description>22 CARTONS SAID TO CONTAIN PRINTER PARTS H.S.CODE 84439990 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.815</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401074</Bol_reference>
+			<Line_number>29</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>HOLLY SHIPPING LTD</Exporter_name>
+				<Exporter_address>ROOM 812,DU SHI REN HE BUILDING, NO.58 QI ZHA STREET,NINGBO,ZHEJIANG,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>UNITED LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>NO 281 / 15, LEVEL 2, DEANS ROAD, COLOMBO 10, SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>UNITED LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>NO 281 / 15, LEVEL 2, DEANS ROAD, COLOMBO 10, SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>1788</Gross_mass>
+			<Shipping_marks>BALIDER</Shipping_marks>
+			<Goods_description>2 PALLETS SAID TO CONTAIN HOT FIX TAPE AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>6.886</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>LGGZCMB240123</Bol_reference>
+			<Line_number>30</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>NEW SEASON INDUSTRIAL H K  CO </Exporter_name>
+				<Exporter_address>LIMITED RM 701, 7/F, SINO, CENTER 582-592 NATHAN ROAD, MONGKOK, KOWLOON, HONG KONG</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>AJAX ENGINEERS PVT LTD</Notify_name>
+				<Notify_address>BROWNS CAPITAL,NO.19, DUDLY SENANAYAKA MAWATHA, COLOMBO 08, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>AJAX ENGINEERS PVT LTD</Consignee_name>
+				<Consignee_address>BROWNS CAPITAL,NO.19, DUDLY SENANAYAKA MAWATHA, COLOMBO 08, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>449</Gross_mass>
+			<Shipping_marks>PI 240603 AJAX</Shipping_marks>
+			<Goods_description>1 PALLET SAID TO CONTAIN PE TRANSPARENT PROTECTIVE FILM 1.5200M/ROLL HS CODE 3920109090 AS PER PI NO. GMFILM240603 1PALLET25ROLLS AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.47</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401094</Bol_reference>
+			<Line_number>31</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING ME </Exporter_name>
+				<Exporter_address>GUAGZHOU LIMITED ROOM 2511-2513, NO. 76 HUANGPU AVENUE WEST, TIANHE DISTRICT, GUANGZHOU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EGX SUPPLY CHAIN PVT LTD</Notify_name>
+				<Notify_address>281 , R A DE MEL MAWATHA COLOMBO 03 SRILANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EGX SUPPLY CHAIN PVT LTD</Consignee_name>
+				<Consignee_address>281 , R A DE MEL MAWATHA COLOMBO 03 SRILANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>644</Gross_mass>
+			<Shipping_marks>ANSELL TEXTILES LANKA PVT LTD COLOMBO, SRI LANKA PACKING NO.1 MADE IN CHINA</Shipping_marks>
+			<Goods_description>1 PACKAGE SAID TO CONTAIN DRIPPING MACHINE SPARE PARTS LINE SPARE PAR AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>2.265</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401100</Bol_reference>
+			<Line_number>32</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>ZHUODA INTERNATIONAL FREIGHT CO </Exporter_name>
+				<Exporter_address>LIMITED BUILDING D ,HUAFENG BUSINESS MANSION ,YU AN ROAD,BAOAN 25 AREA,SHENZHEN</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EAGLE LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>NO 281-1/1, 1ST FLOOR,R A DE MEL MAWATHA,COLOMBO 03. SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EAGLE LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>NO 281-1/1, 1ST FLOOR,R A DE MEL MAWATHA,COLOMBO 03. SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>49</Gross_mass>
+			<Shipping_marks>PANTUM</Shipping_marks>
+			<Goods_description>2 CARTONS SAID TO CONTAIN PANTUM PRINTERS HS CODE 8443.31.10 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.252</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401107</Bol_reference>
+			<Line_number>33</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING ME </Exporter_name>
+				<Exporter_address>GUAGZHOU LIMITED ROOM 2511-2513, NO. 76 HUANGPU AVENUE WEST, TIANHE DISTRICT, GUANGZHOU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>AIR MARINE LOGISTICS PVT LTD</Notify_name>
+				<Notify_address>171-1/3,KYNSEY ROAD, COLOMBO 08.SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>AIR MARINE LOGISTICS PVT LTD</Consignee_name>
+				<Consignee_address>171-1/3,KYNSEY ROAD, COLOMBO 08.SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>1702</Gross_mass>
+			<Shipping_marks>SAMPATH</Shipping_marks>
+			<Goods_description>1 PACKAGE SAID TO CONTAIN MOVABLE PARTITION HS CODE7308300000 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>7.042</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401108</Bol_reference>
+			<Line_number>34</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>HOLLY SHIPPING LTD</Exporter_name>
+				<Exporter_address>ROOM 812,DU SHI REN HE BUILDING, NO.58 QI ZHA STREET,NINGBO,ZHEJIANG,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>UNITED LOGISTICS COLOMBO PVT LTD</Notify_name>
+				<Notify_address>NO 281 / 15, LEVEL 2, DEANS ROAD, COLOMBO 10, SRI LANKA.</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>UNITED LOGISTICS COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>NO 281 / 15, LEVEL 2, DEANS ROAD, COLOMBO 10, SRI LANKA.</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>4</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>4</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>2668</Gross_mass>
+			<Shipping_marks>CHULANA</Shipping_marks>
+			<Goods_description>4 PACKAGES SAID TO CONTAIN SOLARPANEL MC4CONNECTOR AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>9.74</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401111</Bol_reference>
+			<Line_number>35</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>HOLLY SHIPPING LTD</Exporter_name>
+				<Exporter_address>ROOM 812,DU SHI REN HE BUILDING, NO.58 QI ZHA STREET,NINGBO,ZHEJIANG,CHINA</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>SAYURA MARITIME PVT LTD</Notify_name>
+				<Notify_address>NO.15, 2ND FLOOR, SRI SANGARAJA MAWATHA, COLOMBO 10.SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>SAYURA MARITIME PVT LTD</Consignee_name>
+				<Consignee_address>NO.15, 2ND FLOOR, SRI SANGARAJA MAWATHA, COLOMBO 10.SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>28</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>28</Number_of_packages>
+			<Package_type_code>RO</Package_type_code>
+			<Gross_mass>843</Gross_mass>
+			<Shipping_marks>D.R. EXPORTS PVT LTD</Shipping_marks>
+			<Goods_description>28 ROLLS SAID TO CONTAIN PU LEATHER AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>3.629</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>HJ2407149</Bol_reference>
+			<Line_number>36</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>INTELLIGENT EXPRESS LIMITED</Exporter_name>
+				<Exporter_address>RM 02 21/F HIP KWAN COMMERCIAL BUILDING 38 PITT STREET YAU MA TEI KL HONG KONG</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>SANKEN CONSTRUCTION PVT LTD</Notify_name>
+				<Notify_address>NO 295 ,MADAMPITIYA ROAD, COLOMBO 14,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>TO THE ORDER OF</Consignee_name>
+				<Consignee_address>NATIONAL DEVELOPMENT BANK PLC
+COLOMBO LC NO.TF2416401006</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>41</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>41</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>953.5</Gross_mass>
+			<Shipping_marks>CONTRACT NO.0YO1442300130C 0Y01442300150F SANKEN PO NO.MA-IE.ELV-026/025 PI NO.IEHWPI2023120402/ IEHWPI2023120403/IEHWPI2023120404 PL NO. OY01442300130CHWA0001G 0Y01442300150FHWA0001G PROJECT JAPURA UNI ELVAND FIREWALL EQUIPMENT LC NO.TF2416401006</Shipping_marks>
+			<Goods_description>41 PACKAGES SAID TO CONTAIN LAN AND FIREWALL EQUIPMENT CIP COLOMBO,SRI LANKA AS PER PROFORMA INVOICE NOS.IEHWPI2023120402, IEHWPI2023120403,IEHWPI2023120404 DATED HS CODE8517.79.008517.62.908517.62.10 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>6.145</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401122</Bol_reference>
+			<Line_number>37</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING ME </Exporter_name>
+				<Exporter_address>GUAGZHOU LIMITED ROOM 2511-2513, NO. 76 HUANGPU AVENUE WEST, TIANHE DISTRICT, GUANGZHOU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>FLASH CARGO INTERNATIONAL PVT LTD</Notify_name>
+				<Notify_address>NO 210/3B, KELANIMULLA MULLERIYAWA NEW TOWN</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>FLASH CARGO INTERNATIONAL PVT LTD</Consignee_name>
+				<Consignee_address>NO 210/3B, KELANIMULLA MULLERIYAWA NEW TOWN</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>2</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>2</Number_of_packages>
+			<Package_type_code>CS</Package_type_code>
+			<Gross_mass>283</Gross_mass>
+			<Shipping_marks>FROM FOSHAN DERIK TOAGIO TOBACCO PROCESSING COMPANY PVT LTD. INVOICE NO. I24070011 COMMODITY QTY COUNTRY OF ORIGINAL CHINA P.O.NO</Shipping_marks>
+			<Goods_description>2 WOODEN CASES SAID TO CONTAIN COOLING PADS PU ROUND BELT SOLENOID VALUE CO AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>3.735</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401124</Bol_reference>
+			<Line_number>38</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING</Exporter_name>
+				<Exporter_address>(SHENZHEN) LIMITED NO.3001.HEPING RD, 2201, HONGLONG CENTURY PLAZA,BUILDING A, RENMINQIAO COMMUNITY, GUIYUAN STREET, LUOHU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>CWT GLOBELINK COLOMBO PVT LTD</Notify_name>
+				<Notify_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>CWT GLOBELINK COLOMBO PVT LTD</Consignee_name>
+				<Consignee_address>2ND FLOOR,FORBES AND WALKER MAIN BUILDING 46/38 NAWAM MAWATHA COLOMBO 02,SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>6</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>6</Number_of_packages>
+			<Package_type_code>CT</Package_type_code>
+			<Gross_mass>98</Gross_mass>
+			<Shipping_marks>PO202406061026A</Shipping_marks>
+			<Goods_description>6 CARTONS SAID TO CONTAIN DENSITY METER HS CODE 9027899090 AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>0.699</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401131</Bol_reference>
+			<Line_number>39</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>UNITEX INTERNATIONAL FORWARDING</Exporter_name>
+				<Exporter_address>SHENZHEN) LIMITED NO.3001.HEPING RD, 2201, HONGLONG CENTURY PLAZA,BUILDING A, RENMINQIAO COMMUNITY, GUIYUAN STREET, LUOHU</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>EPIRIC SUPPLY CHAIN SOLUTIONS PVT </Notify_name>
+				<Notify_address>LTD LEVEL 35, WORLD TRADE CENTER, WEST TOWER, COLOMBO 01, SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>EPIRIC SUPPLY CHAIN SOLUTIONS PVT </Consignee_name>
+				<Consignee_address>LTD LEVEL 35, WORLD TRADE CENTER, WEST TOWER, COLOMBO 01, SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>75</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>75</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>2413.5</Gross_mass>
+			<Shipping_marks>DIAL TEXTILE INDUSTRIES PVT LTD, PO AX CODE DESC. QTY G.W. CTN NO. VOGUE TEX PVT LTD TIN NO 114066362 PI CUST REF ITEM  COLOR QTY ROLL NO COUNTRY OF ORIGIN  CHINA DESTINATION SRI</Shipping_marks>
+			<Goods_description>75 PACKAGES SAID TO CONTAIN DESCRIPTION OF GOODS AND/OR SERVICES POPLPO-24-00027/PLPO-24-00030 POCKET LINING HS CODE5512190000 POCKETING FABRIC PI NO VOG-0001-24-CO CFR COLOMBO HS CODE55134100 HLF-600LB ELEMENT SPJ 250KG ANODIZED ELEMENT SB38 50KG-M10 CABLE ADAPTOR THREAD PLUG GAUGE - 7/16 -14 CERAMIC BEADS CERAMIC ALUMINA ROLLING JARS AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>6.578</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401116</Bol_reference>
+			<Line_number>40</Line_number>
+			<Bol_nature>23</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>LKCMB</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>JIN WEI METALS MATERIALS CO LTD</Exporter_name>
+				<Exporter_address>NO27 GONGTYI ROAD XINHUA TOWN HUADU DISTRICT GUANGZHOU CITY ,GUANGDONG</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>SAJEEWA CONVEYOR WORKS</Notify_name>
+				<Notify_address>CHILAW ROAD ,LANSIGAMA KATUNERIYA,SRI LANKA</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>SAJEEWA CONVEYOR WORKS</Consignee_name>
+				<Consignee_address>CHILAW ROAD ,LANSIGAMA KATUNERIYA,SRI LANKA</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>17</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>17</Number_of_packages>
+			<Package_type_code>PK</Package_type_code>
+			<Gross_mass>543</Gross_mass>
+			<Shipping_marks>SAJ</Shipping_marks>
+			<Goods_description>17 PACKAGES SAID TO CONTAIN MOTOR AND METAL HARDWARE PARTS AS PER BL</Goods_description>
+			<Volume_in_cubic_meters>1.2</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+	<Bol_segment>
+		<Bol_id>
+			<Bol_reference>KYCLBP2401120</Bol_reference>
+			<Line_number>41</Line_number>
+			<Bol_nature>28</Bol_nature>
+			<Bol_type_code>HSB</Bol_type_code>
+		</Bol_id>
+		<Consolidated_Cargo>1</Consolidated_Cargo>
+		<Load_unload_place>
+			<Place_of_loading_code>CNSHK</Place_of_loading_code>
+			<Place_of_unloading_code>MVMLE</Place_of_unloading_code>
+		</Load_unload_place>
+		<Traders_segment>
+			<Carrier>
+				<Carrier_code>FF063</Carrier_code>
+				<Carrier_name>SPEDICON LOGISTICS PVT LTD</Carrier_name>
+		        <Carrier_address>61/1/1 BALAPOKUNA,ROAD, COLOMBO 6 SRI LANKA</Carrier_address>
+	        </Carrier>
+			<Exporter>
+				<Exporter_name>GUANG DONG KIN LONG HARDWARE </Exporter_name>
+				<Exporter_address>PRODUCTS CO LTD NO.3, JIAN LANG RD.,TANGXIA TOWN, DONGGUAN CITY, GUANGDONG PROVINCE, CHINA POSTCODE 523728</Exporter_address>
+			</Exporter>
+			<Notify>
+				<Notify_name>AMIN CONSTRUCTION PVT LTD</Notify_name>
+				<Notify_address>COMPANY REG. NO.  C-20/89 2ND FLOOR M. WORLD DREAM BUILDING, HANDHUVAREE HINGUN MAAFANU, MALE 20279, REP. OF MALDIVES TEL  +960 3016452, FAX  +960 3328424</Notify_address>
+			</Notify>
+			<Consignee>
+				<Consignee_name>AMIN CONSTRUCTION PVT LTD</Consignee_name>
+				<Consignee_address>COMPANY REG. NO.  C-20/89 2ND FLOOR M. WORLD DREAM BUILDING, HANDHUVAREE HINGUN MAAFANU, MALE 20279, REP. OF MALDIVES TEL  +960 3016452, FAX  +960 3328424</Consignee_address>
+			</Consignee>
+		</Traders_segment>
+		<ctn_segment>
+			<Ctn_reference>WHSU6327682</Ctn_reference>
+			<Number_of_packages>1</Number_of_packages>
+			<Type_of_container>40GP</Type_of_container>
+			<Empty_Full>02</Empty_Full>
+			<Marks1>WHLU616387</Marks1>
+		</ctn_segment>
+		<Goods_segment>
+			<Number_of_packages>1</Number_of_packages>
+			<Package_type_code>PX</Package_type_code>
+			<Gross_mass>277.5</Gross_mass>
+			<Shipping_marks>AMIN CONSTRUCTION PVT LTD+ KINLONG</Shipping_marks>
+			<Goods_description>1 PALLET SAID TO CONTAIN HANDLE LOCK CATCH ANTI-STRIKE BLOCK SCREW SQUARE FRAME PLATE DOUBLE ROLLER FRICTION STAY LOCK CYLINDER ANTI THEF BLOCK DUMMY HANDLE SINGLE LOCK HOOK HS CODE830241/830210/830160/731815/392530/830140 1 PALLET 26 CARTONS 2ND NOTIFY GUANG DONG KIN LONG HARDWARE PRODUCTSHK CO., LIMITED ADD.8 FLOOR,KIN GA INDUSTRIAL BUILDING 9 SAN ON STREET,TUEN MUN NEW TERRITORIES,HONG KONG POSTCODE999077 TEL 852 2467 2823 FAX 852 2467 2823 RFC 50445597 EMAIL  ZHBWLKINLONG.COM AS PER BL T/S CARGO TO MALE</Goods_description>
+			<Volume_in_cubic_meters>0.933</Volume_in_cubic_meters>
+			<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+			<Information/>
+		</Goods_segment>
+		<Value_segment>
+			<Freight_segment>
+				<Freight_value>0</Freight_value>
+				<Freight_currency>ZZZ</Freight_currency>
+			</Freight_segment>
+			<Customs_segment>
+				<Customs_value>0</Customs_value>
+				<Customs_currency>ZZZ</Customs_currency>
+			</Customs_segment>
+			<Insurance_segment>
+				<Insurance_value>0</Insurance_value>
+				<Insurance_currency>ZZZ</Insurance_currency>
+			</Insurance_segment>
+			<Transport_segment/>
+		</Value_segment>
+		<Location/>
+	</Bol_segment>
+</Awbolds>
